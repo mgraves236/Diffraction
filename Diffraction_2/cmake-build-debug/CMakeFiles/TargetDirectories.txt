@@ -1,0 +1,3 @@
+C:/Users/Magda/CLionProjects/Diffraction_2/cmake-build-debug/CMakeFiles/Diffraction.dir
+C:/Users/Magda/CLionProjects/Diffraction_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Magda/CLionProjects/Diffraction_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
